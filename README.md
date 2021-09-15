@@ -25,3 +25,6 @@ git clone https://github.com/Shashikant-15/SOLID_Principle_Assignment/.git
 ### For validation 
 
 we can be performed by hitting endpoints: <VM_IP>:3000 or <VM_IP>:3001
+
+### For doc File you can prefer 
+" Shashikant_CI_CdAssignment (1).pptx "
